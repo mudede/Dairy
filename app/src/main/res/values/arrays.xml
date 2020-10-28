@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string-array name="weather_type">
+        <item>晴朗</item>
+        <item>多云</item>
+        <item>阴天</item>
+        <item>雷阵雨</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>下雪</item>
+    </string-array>
+</resources>
